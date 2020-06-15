@@ -1,0 +1,40 @@
+/*
+This is a comment
+*/
+
+/*
+General Form is:
+
+Selected Tag {
+  property: value;
+}
+
+*/
+
+/* Colors can be names, or codes */
+
+body{
+    background-color: rgb(199, 195, 183);
+    text-align: center;
+}
+
+
+.Cake{
+  width: 55%;
+}
+
+.Gift{
+  width: 15%;
+}
+
+h2{
+  color: purple;
+}
+
+p{
+  color: #ff0000;
+}
+
+h4{
+  color: red;
+}
